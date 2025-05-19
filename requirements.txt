@@ -1,0 +1,12 @@
+streamlit
+pandas
+langdetect
+sentence-transformers
+PyPDF2
+pymupdf
+pycountry
+numpy
+scikit-learn
+googletrans==4.0.0-rc1
+requests
+torch
